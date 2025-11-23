@@ -1,0 +1,20 @@
+{
+  "name": "themovier",
+  "version": "1.0.0",
+  "description": "Repo para el proyecto The Movier consumiendo TheMovieDB API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javierhrzgt/themovier.git"
+  },
+  "keywords": [],
+  "author": "Abraham Hernandez <javierhrzgt>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javierhrzgt/themovier/issues"
+  },
+  "homepage": "https://github.com/javierhrzgt/themovier#readme"
+}
